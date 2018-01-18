@@ -8,3 +8,4 @@
 2018-01-11 [TrianglePath](https://algospot.com/judge/problem/read/TRIANGLEPATH)
 -Dynamic Programming<br/>
 2018-01-15 [LIS](https://algospot.com/judge/problem/read/LIS) -Dynamic Programming<br/>
+2018-01-18 [SNAIL](https://algospot.com/judge/problem/read/SNAIL) -Dynamic Programming<br/>
