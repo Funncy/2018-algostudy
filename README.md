@@ -10,3 +10,5 @@
 2018-01-15 [LIS](https://algospot.com/judge/problem/read/LIS) -Dynamic Programming<br/>
 2018-01-18 [SNAIL](https://algospot.com/judge/problem/read/SNAIL) -Dynamic Programming<br/>
 2018-01-18 [TILING2](https://algospot.com/judge/problem/read/TILING2) -Dynamic Programming<br/>
+2018-01-22 [MATHORDER](https://algospot.com/judge/problem/read/MATCHORDER)
+-Greed <br/>
